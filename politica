@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; max-width: 800px; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
+
+  <p>Este aplicativo não coleta, armazena ou compartilha dados pessoais dos usuários.</p>
+
+  <p>Contudo, o aplicativo exibe anúncios fornecidos pela plataforma Google AdMob. O Google poderá coletar dados técnicos, como:</p>
+
+  <ul>
+    <li>Identificador do dispositivo (ID de publicidade);</li>
+    <li>Localização aproximada;</li>
+    <li>Informações sobre o uso do aplicativo (interações com os anúncios).</li>
+  </ul>
+
+  <p>Esses dados são utilizados exclusivamente pelo Google para fins de exibição de anúncios — podendo ser personalizados ou não, conforme configurações de consentimento do usuário ou políticas regionais.</p>
+
+  <p>O aplicativo não tem acesso direto, nem armazena esses dados.</p>
+
+  <h2>Consentimento</h2>
+  <p>Ao utilizar este aplicativo, você concorda com a exibição de anúncios e com o uso dos dados descritos acima por parte da plataforma AdMob.</p>
+
+  <h2>Solicitação de Exclusão de Dados</h2>
+  <p>Este aplicativo não coleta dados pessoais diretamente. Caso deseje solicitar a exclusão de dados coletados por terceiros (como o Google AdMob), entre em contato pelo e-mail:</p>
+  <p><strong>seuemail@exemplo.com</strong></p>
+
+  <h2>Contato</h2>
+  <p>Em caso de dúvidas sobre esta política, entre em contato pelo e-mail: <strong>seuemail@exemplo.com</strong></p>
+</body>
+</html>
